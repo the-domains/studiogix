@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[StudioGix]]></title>
         <description><![CDATA[StudioGix]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/studiogix/</link>
         <generator>The Grid</generator>
         <lastBuildDate>Tue, 26 Jan 2016 00:53:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://thegrid.ai/studiogix/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Studio Gix:]]></title>
+            <description><![CDATA[<article><h1>About Studio Gix:</h1><p>StudioGix was founded by a group of close friends determined to provide computer graphic solutions to businesses and media. Some of their services include 3D models, animation, and graphic designs and their goal is to always provide a friendly, communicative relationship to their clients.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f0c1d3655477e778082b2d1111d20da3e1e3e5e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/studiogix/home-page/index.html</link>
+            <guid isPermaLink="false">32f259f6-9a9a-4f64-913e-c3e0947d2851</guid>
+            <pubDate>Tue, 26 Jan 2016 00:53:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Demo Reel]]></title>
             <description><![CDATA[<article><h1>Demo Reel</h1><p>Studio Gix Reel from Matt Schmitz on Vimeo.</p></article>]]></description>
-            <link>undefineddemo-reel/index.html</link>
+            <link>https://thegrid.ai/studiogix/demo-reel/index.html</link>
             <guid isPermaLink="false">26e905dc-9627-4dfd-9122-0402f2b5c262</guid>
             <pubDate>Tue, 26 Jan 2016 00:53:28 GMT</pubDate>
         </item>
