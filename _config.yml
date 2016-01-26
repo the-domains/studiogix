@@ -1,0 +1,28 @@
+name: StudioGix
+favicon: null
+layout_spectrum: 0.2547011785209179
+typography_spectrum: 0.36713666073046625
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5729164527729154
+  lightness: 0.8227257546968758
+  saturation: 0.784222022164613
+  rhythmicContrast: 0.10247084265574813
+purpose: []
