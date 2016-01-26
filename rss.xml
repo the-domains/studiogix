@@ -4,8 +4,15 @@
         <description><![CDATA[StudioGix]]></description>
         <link>https://thegrid.ai/studiogix/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 00:53:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jan 2016 00:53:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/studiogix/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Graphic Design]]></title>
+            <description><![CDATA[<article><h1>Graphic Design</h1><p>Gix Logo Spinout from Matt Schmitz on Vimeo.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d2e49e681cfbe1adcef9962a7d066e399b1bf7a9.png"></article>]]></description>
+            <link>https://thegrid.ai/studiogix/graphic-design/index.html</link>
+            <guid isPermaLink="false">f996f4b3-6b24-40fa-9974-1db644b560d1</guid>
+            <pubDate>Tue, 26 Jan 2016 00:53:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Contact]]></title>
             <description><![CDATA[<article><h1>Contact</h1><p>info@studiogix.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb996d140ce6c2f45a36942b95214999fbb7dd03.png"></article>]]></description>
